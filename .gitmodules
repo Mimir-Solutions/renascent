@@ -1,6 +1,3 @@
-[submodule "renascent-token"]
-	path = renascent-token
-	url = git@github.com:Mimir-Solutions/renascent-token.git
 [submodule "renaswap"]
 	path = renaswap
 	url = git@github.com:Mimir-Solutions/renaswap.git
